@@ -7,7 +7,6 @@
 <h1 align="center">Arkpedia</h1>
 
 <p align="center">
-  A fast, visual Arknights reference and planning site.<br>
   <a href="https://arkpedia.net"><strong>Open Arkpedia</strong></a>
 </p>
 
@@ -20,8 +19,5 @@ Arkpedia brings operator details, upgrade planning, stages, events, recruitment 
 - [Images and icons](https://github.com/arkpedia/arkpedia-image-assets) — shared interface, item, banner, and game imagery
 - Operator voices — [Japanese](https://github.com/arkpedia/arkpedia-voice-japanese), [Mandarin](https://github.com/arkpedia/arkpedia-voice-mandarin), [English](https://github.com/arkpedia/arkpedia-voice-english), [Korean](https://github.com/arkpedia/arkpedia-voice-korean), and [regional or alternate recordings](https://github.com/arkpedia/arkpedia-voice-regional)
 
-### Contributing
-
-For a palette correction, open a pull request in the color palette repository. For missing or incorrect media, open an issue in the relevant asset repository and include the operator or item name, the affected file, and the expected result.
 
 Arknights and its game assets are property of Hypergryph, Yostar, and their respective rightsholders. These repositories do not grant a license to reuse or redistribute those assets.
