@@ -10,10 +10,11 @@
   <a href="https://arkpedia.net"><strong>Open Arkpedia</strong></a>
 </p>
 
-Arkpedia brings operator details, upgrade planning, stages, events, recruitment tools, minigames, and other Arknights references into one consistent interface. This organization contains the public asset catalogs that support the site and let corrections be reviewed independently.
+Arkpedia brings operator details, upgrade, skin and pull planning, a Global account import, stages, events, recruitment tools, minigames, and other Arknights references into one consistent interface. This organization holds the public game data and asset catalogs the site reads, so corrections can be reviewed independently and a game update reaches the site without a redeploy.
 
 ### Public projects
 
+- [Game data](https://github.com/arkpedia/arkpedia-data) — the game records the site reads, refreshed nightly and validated before they go live
 - [Color palettes](https://github.com/arkpedia/arkpedia-color-palette) — community-reviewable operator palettes and corrections
 - [Operator artwork](https://github.com/arkpedia/arkpedia-skin-assets) — operator and outfit illustrations used by the site
 - [Images and icons](https://github.com/arkpedia/arkpedia-image-assets) — shared interface, item, banner, and game imagery
